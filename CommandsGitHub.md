@@ -9,3 +9,8 @@ git remote add origin://github.com/SyrovI/CommandsGitHub.git
 ```sh
 git branch -M main
 ```
+
+*Для того что бы загрузить изменения локального репозитория в удаленный, необходимо ввести команду*
+```sh
+git push -u origin main
+```
